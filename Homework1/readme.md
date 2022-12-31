@@ -588,7 +588,7 @@ if all is not complete:
 
 ### code/common.mk
 
-Defined objects & parameter flags
+Defined parameter flags
 
 ```Makefile
 CROSS_COMPILE = riscv64-unknown-elf-
